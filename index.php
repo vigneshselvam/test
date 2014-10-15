@@ -7,4 +7,5 @@ echo 'ok ok ok';
 
 echo 'ok ok ok';
 echo 'good';
+echo'test';
 ?>
