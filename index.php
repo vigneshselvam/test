@@ -6,4 +6,5 @@ echo 'what is this';
 echo 'ok ok ok';
 
 echo 'ok ok ok';
+echo 'good';
 ?>
